@@ -1,0 +1,183 @@
+[2026-03-17 09:52:07] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:52:13] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=732192
+[2026-03-17 09:52:13] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:52:14] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=849084
+[2026-03-17 09:52:14] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:52:15] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=825360
+[2026-03-17 09:52:15] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:52:16] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=734144
+[2026-03-17 09:52:16] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:52:17] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=577352
+[2026-03-17 09:58:38] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:58:44] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=732192
+[2026-03-17 09:58:44] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:58:46] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=849084
+[2026-03-17 09:58:46] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:58:46] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=825360
+[2026-03-17 09:58:46] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:58:47] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=734144
+[2026-03-17 09:58:47] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:58:48] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=577352
+[2026-03-17 09:59:05] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:59:06] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=732192
+[2026-03-17 09:59:06] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:59:07] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=849084
+[2026-03-17 09:59:07] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:59:08] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=825360
+[2026-03-17 09:59:08] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:59:09] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=734144
+[2026-03-17 09:59:09] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 09:59:10] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=577352
+[2026-03-17 10:29:07] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:29:09] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_001_dl_gui_mask.png'
+[2026-03-17 10:29:09] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=732192
+[2026-03-17 10:29:09] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:29:10] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_002_dl_gui_mask.png'
+[2026-03-17 10:29:10] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=849084
+[2026-03-17 10:29:10] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:29:11] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_003_dl_gui_mask.png'
+[2026-03-17 10:29:11] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=825360
+[2026-03-17 10:29:11] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:29:12] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_004_dl_gui_mask.png'
+[2026-03-17 10:29:12] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=734144
+[2026-03-17 10:29:12] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:29:13] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_005_dl_gui_mask.png'
+[2026-03-17 10:29:13] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=577352
+[2026-03-17 10:33:36] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:33:37] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_001_dl_gui_mask.png'
+[2026-03-17 10:33:37] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=732192
+[2026-03-17 10:33:37] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:33:38] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_002_dl_gui_mask.png'
+[2026-03-17 10:33:38] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=849084
+[2026-03-17 10:33:38] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:33:39] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_003_dl_gui_mask.png'
+[2026-03-17 10:33:39] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=825360
+[2026-03-17 10:33:39] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:33:40] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_004_dl_gui_mask.png'
+[2026-03-17 10:33:40] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=734144
+[2026-03-17 10:33:40] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:33:41] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_005_dl_gui_mask.png'
+[2026-03-17 10:33:41] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=577352
+[2026-03-17 10:49:23] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:49:25] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_001_dl_gui_mask.png'
+[2026-03-17 10:49:25] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=65636
+[2026-03-17 10:49:25] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:49:26] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_002_dl_gui_mask.png'
+[2026-03-17 10:49:26] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=68037
+[2026-03-17 10:49:26] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:49:27] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_003_dl_gui_mask.png'
+[2026-03-17 10:49:27] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=68189
+[2026-03-17 10:49:27] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:49:28] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_004_dl_gui_mask.png'
+[2026-03-17 10:49:28] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=64830
+[2026-03-17 10:49:28] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 10:49:29] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_005_dl_gui_mask.png'
+[2026-03-17 10:49:29] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=56400
+[2026-03-17 11:14:39] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:14:40] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/2_slice_001_dl_gui_mask.png'
+[2026-03-17 11:14:40] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=0 mask_true_pixels=48579
+[2026-03-17 11:14:40] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:14:41] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/2_slice_002_dl_gui_mask.png'
+[2026-03-17 11:14:41] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=1 mask_true_pixels=50889
+[2026-03-17 11:14:41] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:14:42] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/2_slice_003_dl_gui_mask.png'
+[2026-03-17 11:14:42] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=2 mask_true_pixels=51278
+[2026-03-17 11:14:42] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:14:43] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/2_slice_004_dl_gui_mask.png'
+[2026-03-17 11:14:43] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=3 mask_true_pixels=50407
+[2026-03-17 11:14:43] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:14:44] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/2_slice_005_dl_gui_mask.png'
+[2026-03-17 11:14:44] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image15/2/2.tif' slice=4 mask_true_pixels=48860
+[2026-03-17 11:21:08] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image355/b8/b8.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:21:09] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/b8_slice_001_dl_gui_mask.png'
+[2026-03-17 11:21:09] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image355/b8/b8.tif' slice=0 mask_true_pixels=49155
+[2026-03-17 11:21:09] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image355/b8/b8.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:21:10] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/b8_slice_002_dl_gui_mask.png'
+[2026-03-17 11:21:10] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image355/b8/b8.tif' slice=1 mask_true_pixels=41031
+[2026-03-17 11:21:10] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image355/b8/b8.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:21:11] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/b8_slice_003_dl_gui_mask.png'
+[2026-03-17 11:21:11] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image355/b8/b8.tif' slice=2 mask_true_pixels=39267
+[2026-03-17 11:21:11] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image355/b8/b8.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:21:12] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/b8_slice_004_dl_gui_mask.png'
+[2026-03-17 11:21:12] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image355/b8/b8.tif' slice=3 mask_true_pixels=35575
+[2026-03-17 11:29:29] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:29:32] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_001_dl_gui_mask.png'
+[2026-03-17 11:29:32] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=65636
+[2026-03-17 11:29:32] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:29:33] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_002_dl_gui_mask.png'
+[2026-03-17 11:29:33] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=68037
+[2026-03-17 11:29:33] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:29:34] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_003_dl_gui_mask.png'
+[2026-03-17 11:29:34] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=68189
+[2026-03-17 11:29:34] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:29:35] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_004_dl_gui_mask.png'
+[2026-03-17 11:29:35] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=64830
+[2026-03-17 11:29:35] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 11:29:37] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_005_dl_gui_mask.png'
+[2026-03-17 11:29:37] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=56400
+[2026-03-17 13:35:24] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 13:35:30] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/0.2_slice_001_dl_gui_mask.png'
+[2026-03-17 13:35:30] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=0 mask_true_pixels=53366
+[2026-03-17 13:35:30] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 13:35:34] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/0.2_slice_002_dl_gui_mask.png'
+[2026-03-17 13:35:34] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=1 mask_true_pixels=54056
+[2026-03-17 13:35:34] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 13:35:38] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/0.2_slice_003_dl_gui_mask.png'
+[2026-03-17 13:35:38] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=2 mask_true_pixels=53926
+[2026-03-17 13:35:38] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 13:35:41] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/0.2_slice_004_dl_gui_mask.png'
+[2026-03-17 13:35:41] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=3 mask_true_pixels=44343
+[2026-03-17 13:44:12] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 13:44:16] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/0.2_slice_001_dl_gui_mask.png'
+[2026-03-17 13:44:16] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=0 mask_true_pixels=53366
+[2026-03-17 13:44:16] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 13:44:20] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/0.2_slice_002_dl_gui_mask.png'
+[2026-03-17 13:44:20] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=1 mask_true_pixels=54056
+[2026-03-17 13:44:20] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 13:44:24] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/0.2_slice_003_dl_gui_mask.png'
+[2026-03-17 13:44:24] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=2 mask_true_pixels=53926
+[2026-03-17 13:44:24] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 13:44:27] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/0.2_slice_004_dl_gui_mask.png'
+[2026-03-17 13:44:27] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image76/0.2/0.2.tif' slice=3 mask_true_pixels=44343
+[2026-03-17 14:28:12] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image153/p3 mglin 1µM/p3 mglin 1µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:28:18] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/p3_mglin_1_M_slice_001_dl_gui_mask.png'
+[2026-03-17 14:28:18] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image153/p3 mglin 1µM/p3 mglin 1µM.tif' slice=0 mask_true_pixels=29004
+[2026-03-17 14:31:18] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image153/p3 mglin 1µM/p3 mglin 1µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:31:19] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/p3_mglin_1_M_slice_001_dl_gui_mask.png'
+[2026-03-17 14:31:19] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image153/p3 mglin 1µM/p3 mglin 1µM.tif' slice=0 mask_true_pixels=29004
+[2026-03-17 14:33:01] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image153/p3 mglin 1µM/p3 mglin 1µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:33:02] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/p3_mglin_1_M_slice_001_dl_gui_mask.png'
+[2026-03-17 14:33:02] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image153/p3 mglin 1µM/p3 mglin 1µM.tif' slice=0 mask_true_pixels=29004
+[2026-03-17 14:34:33] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image153/p3 mglin 1µM/p3 mglin 1µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:34:34] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/p3_mglin_1_M_slice_001_dl_gui_mask.png'
+[2026-03-17 14:34:34] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image153/p3 mglin 1µM/p3 mglin 1µM.tif' slice=0 mask_true_pixels=29004
+[2026-03-17 14:34:40] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:34:41] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_001_dl_gui_mask.png'
+[2026-03-17 14:34:41] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=65636
+[2026-03-17 14:34:41] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:34:42] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_002_dl_gui_mask.png'
+[2026-03-17 14:34:42] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=68037
+[2026-03-17 14:34:42] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:34:43] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_003_dl_gui_mask.png'
+[2026-03-17 14:34:43] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=68189
+[2026-03-17 14:34:43] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:34:44] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_004_dl_gui_mask.png'
+[2026-03-17 14:34:44] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=64830
+[2026-03-17 14:34:44] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:34:45] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_005_dl_gui_mask.png'
+[2026-03-17 14:34:45] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=56400
+[2026-03-17 14:37:26] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:37:27] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_001_dl_gui_mask.png'
+[2026-03-17 14:37:27] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=0 mask_true_pixels=65636
+[2026-03-17 14:37:27] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:37:28] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_002_dl_gui_mask.png'
+[2026-03-17 14:37:28] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=1 mask_true_pixels=68037
+[2026-03-17 14:37:28] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:37:29] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_003_dl_gui_mask.png'
+[2026-03-17 14:37:29] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=2 mask_true_pixels=68189
+[2026-03-17 14:37:29] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:37:30] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_004_dl_gui_mask.png'
+[2026-03-17 14:37:30] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=3 mask_true_pixels=64830
+[2026-03-17 14:37:30] DL inference start file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 shape=(1024, 1024) checkpoint='/home/malani002/Bureau/v2/best_UNetDC_focal_model.pth' prob_thresh=0.3 background_radius=50 device='auto'
+[2026-03-17 14:37:31] DL GUI mask exported to '/home/malani002/Bureau/v2/BlobInspector-main/temp/6_M_slice_005_dl_gui_mask.png'
+[2026-03-17 14:37:31] DL inference done file='/home/malani002/Documents/STAGE_LABRi/exemples/image17/6µM/6µM.tif' slice=4 mask_true_pixels=56400
