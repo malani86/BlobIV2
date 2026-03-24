@@ -66,3 +66,30 @@ for deep-learning inference we keeping original frames separately from display-r
 ### `model/app_model.py`
 
 The addition of `original_stacks` cleanly extends application state to support the new inference requirements. 
+
+##  Summary of Script-Level Evolution
+
+### Purpose of the new script `unetdc_model.py`
+The purpose of `unetdc_model.py` is to provide BlobInspector with a local and self-contained implementation of the UNet-DC architecture needed for deep-learning segmentation. By introducing this model-definition layer into the repository, the software becomes capable of instantiating the neural network, loading trained checkpoints, and executing inference directly within BlobInspector. This makes the deep-learning segmentation path reproducible and portable and reduces dependence on an external model-definition source.
+
+### Purpose of the new functions in `algorithms.py`
+The new functions in `algorithms.py` were introduced to support the deep-learning inference workflow. `rolling_ball_correction_rgb()` performs channel-wise background correction before inference, `get_unetdc_model_class()` provides compatibility between an external original model definition and the internal fallback implementation, and `segmentation_deep_learning()` implements the full inference path, from checkpoint validation and preprocessing to mask generation and post-processing. Together, these functions extend the algorithm layer from classical image processing to hybrid image analysis.
+
+### Purpose of the new additions in `app_model.py`
+The revised `app_model.py` introduces state variables required for the deep-learning workflow. These additions make it possible to store the segmentation mode, checkpoint path, inference threshold, background-correction radius, execution device, and original image stacks used for inference. Their role is to make deep-learning segmentation a persistent and reproducible part of the application state rather than a temporary GUI action.
+
+### Purpose of the new functions in `applicationlogic.py`
+The new helper functions in `applicationlogic.py` were introduced to initialize deep-learning defaults, synchronize GUI controls with model state, manage access to original stack images, and support debugging through log and mask exports. Their purpose is to connect the user interface, the persistent application model, and the algorithm layer in a coherent workflow so that deep-learning segmentation can be invoked in the same operational framework as the original classical segmentation.
+
+### Purpose of the new function in `appli.py`
+The main new contribution in `appli.py` is the interface setup required to expose deep-learning segmentation as a user option. The dedicated GUI construction method integrates the segmentation-mode selector and the associated inference-parameter fields directly into the main segmentation panel. Its role is to make UNet-DC segmentation available as a native interface feature while keeping the overall structure of the main window unchanged.
+
+---
+
+##  Final Recommendation
+
+**Request changes**
+
+The overall integration of UNet-DC into BlobInspector is conceptually strong and represents a meaningful improvement in the software’s capabilities. The architecture preserves the original classical workflow while extending the application with a deep-learning segmentation mode in a coherent way. However, at least one correctness issue remains in the inference path, and several medium-severity issues affect robustness and installation consistency. These points should be addressed before the implementation is considered fully ready for merge or release.
+
+---
