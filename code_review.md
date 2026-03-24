@@ -84,12 +84,4 @@ The new helper functions in `applicationlogic.py` were introduced to initialize 
 ### Purpose of the new function in `appli.py`
 The main new contribution in `appli.py` is the interface setup required to expose deep-learning segmentation as a user option. The dedicated GUI construction method integrates the segmentation-mode selector and the associated inference-parameter fields directly into the main segmentation panel. Its role is to make UNet-DC segmentation available as a native interface feature while keeping the overall structure of the main window unchanged.
 
----
 
-##  Final Recommendation
-
-**Request changes**
-
-The overall integration of UNet-DC into BlobInspector is conceptually strong and represents a meaningful improvement in the software’s capabilities. The architecture preserves the original classical workflow while extending the application with a deep-learning segmentation mode in a coherent way. However, at least one correctness issue remains in the inference path, and several medium-severity issues affect robustness and installation consistency. These points should be addressed before the implementation is considered fully ready for merge or release.
-
----
